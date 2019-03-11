@@ -49,3 +49,53 @@ Initialized empty Git repository in C:/Users/14005/Desktop/git_first/.git/
 
 3.リモートリポジトリにプッシュ
     git pish
+
+
+$ git add git.txt
+
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git commit
+[master (root-commit) 6a184ff] Intial commit
+ 1 file changed, 51 insertions(+)
+ create mode 100644 git.txt
+
+ブラウザで　＋：新しいリポジトリを作成。　YoshiroKudo/intro_git
+
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git remote add origin https://github.com/YoshiroKudo/intro_git.git
+  
+  ⇒　変更履歴画面が立ち上がるので、viコマンドでコメント追加
+
+$ git push -u origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 936 bytes | 936.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/YoshiroKudo/intro_git.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+＊＊変更をコミットする
+1.ファイルの変更をステージングエリアへ追加
+　複数ファイルを変更したときに、コミットするファイルを選択するためにあるのが
+　ステージングエリア。
+　　git add [ファイル名]
+　　git add .  ⇒全てのファイル
+
+2.ローカルリポジトリにコミット
+　変更にメッセージを付けてリポジトリに記録するのがコミット。
+　コミットする事で変更がリポジトリ内に時系列で記録される。
+    git commit
+　コミットメッセージ
+　１行目：変更内容の要約
+　２行目：空白
+　３行目：変更した理由
+
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+⇒変更されたものはなし
