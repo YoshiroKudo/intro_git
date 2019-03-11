@@ -1,0 +1,51 @@
+repository(リポジトリ)：変更履歴を記録する場所。
+commit：個人リポジトリに変更履歴を記録。
+push：共有リポジトリ（サーバ）に変更を共有。
+
+pull：共有リポジトリの情報(サーバ)を同期。
+
+GitHub：Gitリポジトリ(コード)のホスティングサービス。
+　　　　ソーシャルコーディングの場でもある。
+
+Githubの特徴
+　・プルリクエストによるコラボレーション。
+　　変更の履歴を反映登録リクエスト。
+　・他チームのソフトウェアが見える。参加も出来る。
+
+Gitリポジトリのホスティングサービス
+　・GitHub
+　　・公開リポジトリは無料
+　　・非公開リポジトリは有料
+　・Bitbucket
+　　・非公開リポジトリを無料
+　　・個人や２・３名なら無料、チーム開発が有料
+
+GitBash
+$ git version
+git version 2.16.2.windows.1
+
+＊＊初期設定＊＊
+N1400501+14005@N1400501 MINGW64 ~
+$ git config --global user.name "Yoshiro Kudo"
+
+N1400501+14005@N1400501 MINGW64 ~
+$ git config --global user.email Kudou-y@ksc.co.jp
+
+＊＊ローカルリポジトリの新規作成
+$ git init
+Initialized empty Git repository in C:/Users/14005/.git/
+
+＊＊ローカルリポジトリの新規作成
+$ cd desktop/git_first
+$ git init
+Initialized empty Git repository in C:/Users/14005/Desktop/git_first/.git/
+
+＊＊基本的なワークフロー
+1.ファイルの変更をステージングエリアへ追加
+　　git add
+
+2.ローカルリポジトリにコミット
+    git commit
+
+3.リモートリポジトリにプッシュ
+    git pish
