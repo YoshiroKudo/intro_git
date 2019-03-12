@@ -87,7 +87,8 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 　変更にメッセージを付けてリポジトリに記録するのがコミット。
 　コミットする事で変更がリポジトリ内に時系列で記録される。
     git commit
-　コミットメッセージ
+
+　コミットメッセージの反映
 　１行目：変更内容の要約
 　２行目：空白
 　３行目：変更した理由
@@ -99,3 +100,73 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 ⇒変更されたものはなし
+
+ファイルを更新後、
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   git.txt　　←赤色
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+＊＊git addの実行
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git add .
+
+N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   git.txt　　←緑色になる
+
+$ git commit -v
+[master c8d13f1] コメントの追加
+ 1 file changed, 51 insertions(+), 1 deletion(-)
+
+＊＊確認
+$ git log
+commit c8d13f14517eb310c83db53057197a6b5c77c3d0 (HEAD -> master)
+Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
+Date:   Mon Mar 11 18:03:56 2019 +0900
+
+    コメントの追加
+
+    講座が進行した為
+
+commit 6a184ffd5f13f539ed46bf24ec7384ea075863ce (origin/master)
+Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
+Date:   Mon Mar 11 17:03:58 2019 +0900
+
+    Intial commit
+
+新規作成ファイルのコミット
+$ git add xxxx.txt
+$ git commit -v
+
+削除ファイルのコミット
+$ git rm xxxx.txt
+$ git commit -v
+
+複数ファイルのコミット
+$ git add .
+$ git commit -v
+
+現状確認
+$ git status
+  origin/master  by x commits. ←　x回のコミット分アップされていない
+
+**変更を加えると
+Changes not staged for commit:
+**addを実行すると
+Changes to be committed:
+
