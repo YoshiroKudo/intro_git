@@ -1,53 +1,53 @@
-repository(ƒŠƒ|ƒWƒgƒŠ)F•ÏX—š—ğ‚ğ‹L˜^‚·‚éêŠB
-commitFŒÂlƒŠƒ|ƒWƒgƒŠ‚É•ÏX—š—ğ‚ğ‹L˜^B
-pushF‹¤—LƒŠƒ|ƒWƒgƒŠiƒT[ƒoj‚É•ÏX‚ğ‹¤—LB
+ï»¿repository(ãƒªãƒã‚¸ãƒˆãƒª)ï¼šå¤‰æ›´å±¥æ­´ã‚’è¨˜éŒ²ã™ã‚‹å ´æ‰€ã€‚
+commitï¼šå€‹äººãƒªãƒã‚¸ãƒˆãƒªã«å¤‰æ›´å±¥æ­´ã‚’è¨˜éŒ²ã€‚
+pushï¼šå…±æœ‰ãƒªãƒã‚¸ãƒˆãƒªï¼ˆã‚µãƒ¼ãƒï¼‰ã«å¤‰æ›´ã‚’å…±æœ‰ã€‚
 
-pullF‹¤—LƒŠƒ|ƒWƒgƒŠ‚Ìî•ñ(ƒT[ƒo)‚ğ“¯ŠúB
+pullï¼šå…±æœ‰ãƒªãƒã‚¸ãƒˆãƒªã®æƒ…å ±(ã‚µãƒ¼ãƒ)ã‚’åŒæœŸã€‚
 
-GitHubFGitƒŠƒ|ƒWƒgƒŠ(ƒR[ƒh)‚ÌƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒXB
-@@@@ƒ\[ƒVƒƒƒ‹ƒR[ƒfƒBƒ“ƒO‚Ìê‚Å‚à‚ ‚éB
+GitHubï¼šGitãƒªãƒã‚¸ãƒˆãƒª(ã‚³ãƒ¼ãƒ‰)ã®ãƒ›ã‚¹ãƒ†ã‚£ãƒ³ã‚°ã‚µãƒ¼ãƒ“ã‚¹ã€‚
+ã€€ã€€ã€€ã€€ã‚½ãƒ¼ã‚·ãƒ£ãƒ«ã‚³ãƒ¼ãƒ‡ã‚£ãƒ³ã‚°ã®å ´ã§ã‚‚ã‚ã‚‹ã€‚
 
-Github‚Ì“Á’¥
-@Eƒvƒ‹ƒŠƒNƒGƒXƒg‚É‚æ‚éƒRƒ‰ƒ{ƒŒ[ƒVƒ‡ƒ“B
-@@•ÏX‚Ì—š—ğ‚ğ”½‰f“o˜^ƒŠƒNƒGƒXƒgB
-@E‘¼ƒ`[ƒ€‚Ìƒ\ƒtƒgƒEƒFƒA‚ªŒ©‚¦‚éBQ‰Á‚ào—ˆ‚éB
+Githubã®ç‰¹å¾´
+ã€€ãƒ»ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã«ã‚ˆã‚‹ã‚³ãƒ©ãƒœãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã€‚
+ã€€ã€€å¤‰æ›´ã®å±¥æ­´ã‚’åæ˜ ç™»éŒ²ãƒªã‚¯ã‚¨ã‚¹ãƒˆã€‚
+ã€€ãƒ»ä»–ãƒãƒ¼ãƒ ã®ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ãŒè¦‹ãˆã‚‹ã€‚å‚åŠ ã‚‚å‡ºæ¥ã‚‹ã€‚
 
-GitƒŠƒ|ƒWƒgƒŠ‚ÌƒzƒXƒeƒBƒ“ƒOƒT[ƒrƒX
-@EGitHub
-@@EŒöŠJƒŠƒ|ƒWƒgƒŠ‚Í–³—¿
-@@E”ñŒöŠJƒŠƒ|ƒWƒgƒŠ‚Í—L—¿
-@EBitbucket
-@@E”ñŒöŠJƒŠƒ|ƒWƒgƒŠ‚ğ–³—¿
-@@EŒÂl‚â‚QE‚R–¼‚È‚ç–³—¿Aƒ`[ƒ€ŠJ”­‚ª—L—¿
+Gitãƒªãƒã‚¸ãƒˆãƒªã®ãƒ›ã‚¹ãƒ†ã‚£ãƒ³ã‚°ã‚µãƒ¼ãƒ“ã‚¹
+ã€€ãƒ»GitHub
+ã€€ã€€ãƒ»å…¬é–‹ãƒªãƒã‚¸ãƒˆãƒªã¯ç„¡æ–™
+ã€€ã€€ãƒ»éå…¬é–‹ãƒªãƒã‚¸ãƒˆãƒªã¯æœ‰æ–™
+ã€€ãƒ»Bitbucket
+ã€€ã€€ãƒ»éå…¬é–‹ãƒªãƒã‚¸ãƒˆãƒªã‚’ç„¡æ–™
+ã€€ã€€ãƒ»å€‹äººã‚„ï¼’ãƒ»ï¼“åãªã‚‰ç„¡æ–™ã€ãƒãƒ¼ãƒ é–‹ç™ºãŒæœ‰æ–™
 
 GitBash
 $ git version
 git version 2.16.2.windows.1
 
-––‰Šúİ’è––
+ï¼Šï¼ŠåˆæœŸè¨­å®šï¼Šï¼Š
 N1400501+14005@N1400501 MINGW64 ~
 $ git config --global user.name "Yoshiro Kudo"
 
 N1400501+14005@N1400501 MINGW64 ~
 $ git config --global user.email Kudou-y@ksc.co.jp
 
-––ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ÌV‹Kì¬
+ï¼Šï¼Šãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã®æ–°è¦ä½œæˆ
 $ git init
 Initialized empty Git repository in C:/Users/14005/.git/
 
-––ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ÌV‹Kì¬
+ï¼Šï¼Šãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã®æ–°è¦ä½œæˆ
 $ cd desktop/git_first
 $ git init
 Initialized empty Git repository in C:/Users/14005/Desktop/git_first/.git/
 
-––Šî–{“I‚Èƒ[ƒNƒtƒ[
-1.ƒtƒ@ƒCƒ‹‚Ì•ÏX‚ğƒXƒe[ƒWƒ“ƒOƒGƒŠƒA‚Ö’Ç‰Á
-@@git add
+ï¼Šï¼ŠåŸºæœ¬çš„ãªãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼
+1.ãƒ•ã‚¡ã‚¤ãƒ«ã®å¤‰æ›´ã‚’ã‚¹ãƒ†ãƒ¼ã‚¸ãƒ³ã‚°ã‚¨ãƒªã‚¢ã¸è¿½åŠ 
+ã€€ã€€git add
 
-2.ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ÉƒRƒ~ƒbƒg
+2.ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã«ã‚³ãƒŸãƒƒãƒˆ
     git commit
 
-3.ƒŠƒ‚[ƒgƒŠƒ|ƒWƒgƒŠ‚ÉƒvƒbƒVƒ…
+3.ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ãƒ—ãƒƒã‚·ãƒ¥
     git pish
 
 
@@ -59,12 +59,12 @@ $ git commit
  1 file changed, 51 insertions(+)
  create mode 100644 git.txt
 
-ƒuƒ‰ƒEƒU‚Å@{FV‚µ‚¢ƒŠƒ|ƒWƒgƒŠ‚ğì¬B@YoshiroKudo/intro_git
+ãƒ–ãƒ©ã‚¦ã‚¶ã§ã€€ï¼‹ï¼šæ–°ã—ã„ãƒªãƒã‚¸ãƒˆãƒªã‚’ä½œæˆã€‚ã€€YoshiroKudo/intro_git
 
 N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
 $ git remote add origin https://github.com/YoshiroKudo/intro_git.git
   
-  Ë@•ÏX—š—ğ‰æ–Ê‚ª—§‚¿ã‚ª‚é‚Ì‚ÅAviƒRƒ}ƒ“ƒh‚ÅƒRƒƒ“ƒg’Ç‰Á
+  â‡’ã€€å¤‰æ›´å±¥æ­´ç”»é¢ãŒç«‹ã¡ä¸ŠãŒã‚‹ã®ã§ã€viã‚³ãƒãƒ³ãƒ‰ã§ã‚³ãƒ¡ãƒ³ãƒˆè¿½åŠ 
 
 $ git push -u origin master
 Counting objects: 3, done.
@@ -76,22 +76,22 @@ To https://github.com/YoshiroKudo/intro_git.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
-––•ÏX‚ğƒRƒ~ƒbƒg‚·‚é
-1.ƒtƒ@ƒCƒ‹‚Ì•ÏX‚ğƒXƒe[ƒWƒ“ƒOƒGƒŠƒA‚Ö’Ç‰Á
-@•¡”ƒtƒ@ƒCƒ‹‚ğ•ÏX‚µ‚½‚Æ‚«‚ÉAƒRƒ~ƒbƒg‚·‚éƒtƒ@ƒCƒ‹‚ğ‘I‘ğ‚·‚é‚½‚ß‚É‚ ‚é‚Ì‚ª
-@ƒXƒe[ƒWƒ“ƒOƒGƒŠƒAB
-@@git add [ƒtƒ@ƒCƒ‹–¼]
-@@git add .  Ë‘S‚Ä‚Ìƒtƒ@ƒCƒ‹
+ï¼Šï¼Šå¤‰æ›´ã‚’ã‚³ãƒŸãƒƒãƒˆã™ã‚‹
+1.ãƒ•ã‚¡ã‚¤ãƒ«ã®å¤‰æ›´ã‚’ã‚¹ãƒ†ãƒ¼ã‚¸ãƒ³ã‚°ã‚¨ãƒªã‚¢ã¸è¿½åŠ 
+ã€€è¤‡æ•°ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å¤‰æ›´ã—ãŸã¨ãã«ã€ã‚³ãƒŸãƒƒãƒˆã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é¸æŠã™ã‚‹ãŸã‚ã«ã‚ã‚‹ã®ãŒ
+ã€€ã‚¹ãƒ†ãƒ¼ã‚¸ãƒ³ã‚°ã‚¨ãƒªã‚¢ã€‚
+ã€€ã€€git add [ãƒ•ã‚¡ã‚¤ãƒ«å]
+ã€€ã€€git add .  â‡’å…¨ã¦ã®ãƒ•ã‚¡ã‚¤ãƒ«
 
-2.ƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ‚ÉƒRƒ~ƒbƒg
-@•ÏX‚ÉƒƒbƒZ[ƒW‚ğ•t‚¯‚ÄƒŠƒ|ƒWƒgƒŠ‚É‹L˜^‚·‚é‚Ì‚ªƒRƒ~ƒbƒgB
-@ƒRƒ~ƒbƒg‚·‚é–‚Å•ÏX‚ªƒŠƒ|ƒWƒgƒŠ“à‚ÉŒn—ñ‚Å‹L˜^‚³‚ê‚éB
+2.ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã«ã‚³ãƒŸãƒƒãƒˆ
+ã€€å¤‰æ›´ã«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ä»˜ã‘ã¦ãƒªãƒã‚¸ãƒˆãƒªã«è¨˜éŒ²ã™ã‚‹ã®ãŒã‚³ãƒŸãƒƒãƒˆã€‚
+ã€€ã‚³ãƒŸãƒƒãƒˆã™ã‚‹äº‹ã§å¤‰æ›´ãŒãƒªãƒã‚¸ãƒˆãƒªå†…ã«æ™‚ç³»åˆ—ã§è¨˜éŒ²ã•ã‚Œã‚‹ã€‚
     git commit
 
-@ƒRƒ~ƒbƒgƒƒbƒZ[ƒW‚Ì”½‰f
-@‚Ps–ÚF•ÏX“à—e‚Ì—v–ñ
-@‚Qs–ÚF‹ó”’
-@‚Rs–ÚF•ÏX‚µ‚½——R
+ã€€ã‚³ãƒŸãƒƒãƒˆãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã®åæ˜ 
+ã€€ï¼‘è¡Œç›®ï¼šå¤‰æ›´å†…å®¹ã®è¦ç´„
+ã€€ï¼’è¡Œç›®ï¼šç©ºç™½
+ã€€ï¼“è¡Œç›®ï¼šå¤‰æ›´ã—ãŸç†ç”±
 
 N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
 $ git status
@@ -99,9 +99,9 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
-Ë•ÏX‚³‚ê‚½‚à‚Ì‚Í‚È‚µ
+â‡’å¤‰æ›´ã•ã‚ŒãŸã‚‚ã®ã¯ãªã—
 
-ƒtƒ@ƒCƒ‹‚ğXVŒãA
+ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ›´æ–°å¾Œã€
 N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
 $ git status
 On branch master
@@ -111,11 +111,11 @@ Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
   (use "git checkout -- <file>..." to discard changes in working directory)
 
-        modified:   git.txt@@©ÔF
+        modified:   git.txtã€€ã€€â†èµ¤è‰²
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-––git add‚ÌÀs
+ï¼Šï¼Šgit addã®å®Ÿè¡Œ
 N1400501+14005@N1400501 MINGW64 ~/Desktop/git_first (master)
 $ git add .
 
@@ -127,21 +127,21 @@ Your branch is up to date with 'origin/master'.
 Changes to be committed:
   (use "git reset HEAD <file>..." to unstage)
 
-        modified:   git.txt@@©—ÎF‚É‚È‚é
+        modified:   git.txtã€€ã€€â†ç·‘è‰²ã«ãªã‚‹
 
 $ git commit -v
-[master c8d13f1] ƒRƒƒ“ƒg‚Ì’Ç‰Á
+[master c8d13f1] ã‚³ãƒ¡ãƒ³ãƒˆã®è¿½åŠ 
  1 file changed, 51 insertions(+), 1 deletion(-)
 
-––Šm”F
+ï¼Šï¼Šç¢ºèª
 $ git log
 commit c8d13f14517eb310c83db53057197a6b5c77c3d0 (HEAD -> master)
 Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
 Date:   Mon Mar 11 18:03:56 2019 +0900
 
-    ƒRƒƒ“ƒg‚Ì’Ç‰Á
+    ã‚³ãƒ¡ãƒ³ãƒˆã®è¿½åŠ 
 
-    uÀ‚ªis‚µ‚½ˆ×
+    è¬›åº§ãŒé€²è¡Œã—ãŸç‚º
 
 commit 6a184ffd5f13f539ed46bf24ec7384ea075863ce (origin/master)
 Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
@@ -149,24 +149,86 @@ Date:   Mon Mar 11 17:03:58 2019 +0900
 
     Intial commit
 
-V‹Kì¬ƒtƒ@ƒCƒ‹‚ÌƒRƒ~ƒbƒg
+æ–°è¦ä½œæˆãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚³ãƒŸãƒƒãƒˆ
 $ git add xxxx.txt
 $ git commit -v
 
-íœƒtƒ@ƒCƒ‹‚ÌƒRƒ~ƒbƒg
+å‰Šé™¤ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚³ãƒŸãƒƒãƒˆ
 $ git rm xxxx.txt
 $ git commit -v
 
-•¡”ƒtƒ@ƒCƒ‹‚ÌƒRƒ~ƒbƒg
+è¤‡æ•°ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚³ãƒŸãƒƒãƒˆ
 $ git add .
 $ git commit -v
 
-Œ»óŠm”F
+ç¾çŠ¶ç¢ºèª
 $ git status
-  origin/master  by x commits. ©@x‰ñ‚ÌƒRƒ~ƒbƒg•ªƒAƒbƒv‚³‚ê‚Ä‚¢‚È‚¢
+  origin/master  by x commits. â†ã€€xå›ã®ã‚³ãƒŸãƒƒãƒˆåˆ†ã‚¢ãƒƒãƒ—ã•ã‚Œã¦ã„ãªã„
 
-**•ÏX‚ğ‰Á‚¦‚é‚Æ
+**å¤‰æ›´ã‚’åŠ ãˆã‚‹ã¨
 Changes not staged for commit:
-**add‚ğÀs‚·‚é‚Æ
+**addã‚’å®Ÿè¡Œã™ã‚‹ã¨
 Changes to be committed:
+
+***å¤‰æ›´å±¥æ­´ã®ç¢ºèª
+$git log
+ã€€ãƒªãƒã‚¸ãƒˆãƒªã«ã‚³ãƒŸãƒƒãƒˆã•ã‚ŒãŸãƒ­ã‚°ã‚’ç¢ºèªã™ã‚‹ã€‚
+$ git log
+â˜…ï¼“ç•ªç›®
+commit e1faecd3ad272a8dd472e88c6854a0bafd767124 (HEAD -> master)
+Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
+Date:   Tue Mar 12 14:57:22 2019 +0900
+
+    git é€²è¡Œã«ä¼´ã†å¤‰æ›´
+
+    è¬›åº§é€²æ—
+â˜…ï¼’ç•ªç›®
+commit c8d13f14517eb310c83db53057197a6b5c77c3d0ã€€â†ã“ã®ãƒãƒƒã‚·ãƒ¥å€¤ã§æˆ»ã›ã‚‹
+Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
+Date:   Mon Mar 11 18:03:56 2019 +0900
+
+    ã‚³ãƒ¡ãƒ³ãƒˆã®è¿½åŠ 
+
+    è¬›åº§ãŒé€²è¡Œã—ãŸç‚º
+â˜…ï¼‘ç•ªç›®
+commit 6a184ffd5f13f539ed46bf24ec7384ea075863ce (origin/master)
+Author: Yoshiro Kudo <Kudou-y@ksc.co.jp>
+Date:   Mon Mar 11 17:03:58 2019 +0900
+
+    Intial commit
+
+ï¼Šï¼Šï¼Šã‚ªãƒ—ã‚·ãƒ§ãƒ³
+$ git log --oneline  #ä¸€è¡Œã§è¡¨ç¤º
+e1faecd (HEAD -> master) git é€²è¡Œã«ä¼´ã†å¤‰æ›´
+c8d13f1 ã‚³ãƒ¡ãƒ³ãƒˆã®è¿½åŠ 
+6a184ff (origin/master) Intial commit
+
+$git log -p ãƒ•ã‚¡ã‚¤ãƒ«å	#ãƒ•ã‚¡ã‚¤ãƒ«ã®å·®åˆ†ã‚’è¡¨ç¤ºã™ã‚‹
+
+$ git log -n 3 æœ€æ–°å¤‰æ›´ï¼“è¡Œã‚’è¡¨ç¤º
+$ git log --oneline -n 3 æœ€æ–°å¤‰æ›´ï¼“è¡Œã‚’è¡¨ç¤º
+
+$ git log -p  #ã‚³ãƒŸãƒƒãƒˆãƒ­ã‚°ã¨å¤‰æ›´ç‚¹ã®ãƒ‘ãƒƒãƒå½¢å¼ã‚’è¡¨ç¤º
+
+ï¼Šï¼Šï¼Šå¤‰æ›´å·®åˆ†ã‚’ç¢ºèª
+$ git diff	#ã‚¹ãƒ†ãƒ¼ã‚¸ã¨ã®å·®åˆ†
+
+$ git diff HEAD	#ã‚¹ãƒ†ãƒ¼ã‚¸ã¨ã‚³ãƒŸãƒƒãƒˆã®å·®åˆ†
+
+
+ï¼Šï¼Šï¼Šãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ãƒ—ãƒƒã‚·ãƒ¥
+++git remote addã‚³ãƒãƒ³ãƒ‰ã§ã€ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã‚’ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ç™»éŒ²ï¼
+$ git remote add orign https://github.com/userå/repo.git
+                       https://github.com/YoshiroKudo/intro_git
+  orignãŒãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«ãªã‚‹ï¼ï¼ï¼
+++git pushã‚³ãƒãƒ³ãƒ‰ã§ã€ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã®å†…å®¹ã‚’ãƒªãƒ¢ãƒ¼ãƒˆãƒªãƒã‚¸ãƒˆãƒªã«é€ä¿¡
+$ git push origin master  #masterã¯ãƒ‡ã‚£ãƒ•ã‚©ãƒ«ãƒˆã®ãƒ–ãƒ©ãƒ³ãƒ
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (6/6), 2.45 KiB | 1.23 MiB/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/YoshiroKudo/intro_git.git
+   6a184ff..e1faecd  master -> master
 
